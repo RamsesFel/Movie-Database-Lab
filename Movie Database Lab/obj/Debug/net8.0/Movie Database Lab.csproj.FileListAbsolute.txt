@@ -1,0 +1,14 @@
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.exe
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.deps.json
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\bin\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\refint\Movie Database Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\Movie Database Lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Grand Circus\Movie Database Lab\Movie Database Lab\obj\Debug\net8.0\ref\Movie Database Lab.dll
